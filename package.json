@@ -10,7 +10,6 @@
   },
   "reactSnap": {
     "source": "dist",
-    "inlineCss": true,
     "puppeteerArgs": ["--no-sandbox"],
     "minifyHtml": {
       "collapseWhitespace": false,
